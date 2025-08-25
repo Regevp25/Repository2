@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  regev:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2025-08-25T20:47:35.778415388+03:00"
+    description: A Helm chart for Kubernetes (Flask app on port 5000)
+    digest: abcf7acfb26cc5113cdff32b02811ea3ec2e7cee4ffeee598b784f05513d572f
+    name: regev
+    type: application
+    urls:
+    - https://regevp25.github.io/Repository2/regev-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-08-25T20:47:35.777739899+03:00"
